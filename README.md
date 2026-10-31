@@ -23,8 +23,7 @@
 </p>
 
  ## About 
-I'm a Computer Science graduate interested in software development, problem-solving and building practical applications. Through my internship at CRIS, New Delhi  and personal projects, I've gained hands-on exposure to application development, databases, testing and machine learning.
-I am a quick learner with strong problem-solving abilities, adaptability, and a willingness to learn new technologies. Seeking an opportunity to contribute to an organization while continuously developing technical and professional skills.
+I am a Computer Science graduate with 6 months of internship experience at CRIS, New Delhi. I have hands-on experience in Python, Java, Django, SQL, PostgreSQL, web application development,database Integration and software testing. I have also built projects in machine learning and web development. I am actively seeking entry-level opportunities in Software Development, AI/ML, Data Science, or IT Support where I can apply my skills and continue learning.
 
  ## Experience
 

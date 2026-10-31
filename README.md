@@ -22,18 +22,9 @@
   <a href="https://leetcode.com/u/srishty_02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
----
-
  ## About 
-
-I'm a Computer Science graduate interested in software development, problem-solving and building practical applications. Through my internship at CRIS and personal projects, I've gained hands-on exposure to application development, databases, testing and machine learning.
-
-```text
-📍 Mumbai / Navi Mumbai  →  open to Bangalore, Pune & other tech hubs
-🔭 Looking for: Full-Stack · Backend · Data roles
-🌱 Learning: DSA · Software Engineering Fundamentals · GenAI & LLMs
-🧩 Practicing problem-solving on LeetCode
-```
+I'm a Computer Science graduate interested in software development, problem-solving and building practical applications. Through my internship at CRIS, New Delhi  and personal projects, I've gained hands-on exposure to application development, databases, testing and machine learning.
+I am a quick learner with strong problem-solving abilities, adaptability, and a willingness to learn new technologies. Seeking an opportunity to contribute to an organization while continuously developing technical and professional skills.
 
  ## Experience
 

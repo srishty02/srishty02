@@ -79,10 +79,11 @@ I am a Computer Science graduate with 6 months of internship experience at CRIS,
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srishty02&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </p>
-##  Let's Connect
+
+## Let's Connect
 
 <p align="center">
-  Open to opportunities 
+ Currently open to tech opportunities across software, data and AI/ML roles
   📧 <b>srishty0208@gmail.com</b> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/srishty-kumari-14b56b272/">LinkedIn</a> &nbsp;|&nbsp; <a href="https://leetcode.com/u/srishty_02/">LeetCode</a>
 </p>
 

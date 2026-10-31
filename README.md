@@ -15,11 +15,6 @@
   🎓 <b>B.Tech in Computer Science Engineering</b><br>
   Banasthali Vidyapith · Graduated June 2026 · CGPA: 7.90
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Data-2ea44f?style=for-the-badge">
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/srishty-kumari-14b56b272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:srishty0208@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Srishty Kumari 👋</h1>
 
 <p align="center">
-  <b>Software Developer · CSE Graduate · AI/ML Enthusiast</b><br>
-  Building practical apps with Python, Django and machine learning
+  <a href="https://github.com/srishty02">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Srishty+Kumari;Software+Developer+%7C+CSE+Graduate;Python+%7C+Django+%7C+Java+%7C+SQL+%7C+Scikit-learn;Full-Stack+%7C+Backend+%7C+Data+Roles;%F0%9F%9A%80+Open+to+Work" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">

@@ -36,14 +36,14 @@ I am a Computer Science graduate with 6 months of internship experience at CRIS,
 - Used HTML, CSS, and JavaScript to update web pages and improve user experience.
 
 
- ## Projects
+## 🚀 Projects
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **🩺 Multiple Disease Prediction** | ML application that predicts diabetes and Parkinson's disease. Deployed on Render. | Python, Scikit-learn | [View Project](https://github.com/srishty02/REPO-NAME) |
-| **💸 DealDrop** | Price tracking app that monitors product prices, runs automated price checks and sends email alerts. | Firecrawl API, Supabase | [View Project](https://github.com/srishty02/REPO-NAME) |
-| **💬 Realtime Chat Application** | Chat application for instant messaging between users in real time. | ADD-TECH-STACK | [View Project](https://github.com/srishty02/REPO-NAME) |
-| **🎫 Support CRM** | Support ticket management application for creating, organizing and tracking tickets. | Django, PostgreSQL | [View Project](https://github.com/srishty02/REPO-NAME) |
+| **🩺 Multiple Disease Prediction** | Streamlit web app that predicts the likelihood of diabetes, heart disease and Parkinson's disease from user inputs using trained machine learning models. | Python, Scikit-learn, Streamlit, NumPy | [View Project](https://github.com/srishty02/Multiple-Disease-Prediction) |
+| **💸 DealDrop** | Price tracking app where users sign in, add product links and monitor price history on a chart. Automated cron price checks send email alerts on price changes. | Next.js, React, Tailwind CSS, Supabase, Firecrawl API, Resend, Recharts | [View Project](https://github.com/srishty02/dealdrop) |
+| **💬 Realtime Chat Application** | Full-stack MERN chat app with JWT authentication, one-to-one and group chats, user search, typing indicators and notifications over Socket.IO. | React, Node.js, Express, MongoDB, Socket.IO | [View Project](https://github.com/srishty02/Mern-Chat-App) |
+| **🎫 Support CRM** | Support ticket management app with priority-based SLA due dates, overdue tracking, status/priority filters, search and ticket notes. | Next.js 14, Tailwind CSS, Supabase (PostgreSQL) | [View Project](https://github.com/srishty02/support-crm) |
 ## 🛠️ Technical Skills
 
 <p align="center">

@@ -6,9 +6,9 @@
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Data-2ea44f?style=for-the-badge">
-</p>
+</p> -->
 
 <h1 align="center">Srishty Kumari</h1>
 </p>

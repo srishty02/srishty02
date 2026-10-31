@@ -23,12 +23,11 @@
 </p>
 
  ## About 
-I am a Computer Science graduate with 6 months of internship experience at CRIS, New Delhi. I have hands-on experience in Python, Java, Django, SQL, PostgreSQL, web application development,database Integration and software testing. I have also built projects in machine learning and web development. I am actively seeking entry-level opportunities in Software Development, AI/ML, Data Science, or IT Support where I can apply my skills and continue learning.
+I am a Computer Science graduate with 6 months of internship experience at CRIS, New Delhi. I have hands-on experience in Python, Java, JavaScript, SQL, PostgreSQL, web application development,database Integration and software testing. I have also built projects in machine learning and web development.I am a quick learner who enjoys solving problems and learning new technologies. I am actively seeking entry-level opportunities in Software Development, AI/ML, Data Science, or IT Support where I can apply my skills and continue learning.
 
  ## Experience
 
-**Python Developer Intern — Centre for Railway Information Systems (CRIS)**  
-*New Delhi · 6 Months*
+**Python Developer Intern — Centre for Railway Information Systems (CRIS)**  IT Teams.New Delhi.July 2025-November 2025
 
 - Developed and updated web application pages using Python and Django.
 - Connected application pages with PostgreSQL databases to fetch and manage data.

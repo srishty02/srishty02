@@ -1,10 +1,13 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0E75B6,100:6C63FF&text=Srishty%20Kumari&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Graduate%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" />
+
 <p align="center">
   <a href="https://github.com/srishty02">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&background=0E75B6&center=true&vCenter=true&width=900&height=140&lines=Software+Developer+%7C+CSE+Graduate+%7C+AI%2FML+Enthusiast;Python+%7C+Django+%7C+Java+%7C+SQL+%7C+Scikit-learn;Full-Stack+%7C+Backend+%7C+Data+Roles;%F0%9F%9A%80+Open+to+Work" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=40&lines=Hi%2C+I'm+Srishty+%F0%9F%91%8B;Python+%7C+Django+%7C+Java+%7C+SQL+%7C+Scikit-learn;Full-Stack+%7C+Backend+%7C+Data+Roles;%F0%9F%9A%80+Open+to+Work" alt="Typing animation" />
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Srishty Kumari 👋</h1>
+
+
 <h1 align="center">Hi,I'm Srishty Kumari</h1>
 </p>
 

@@ -42,32 +42,14 @@ I'm a Computer Science graduate interested in software development, problem-solv
 
 ## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💸 DealDrop</h3>
-      Price tracker with automated price checks and email alerts.<br><br>
-      <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=flat-square">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"><br><br>
-      <a href="https://github.com/srishty02/REPO-NAME">🔗 View Project</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🩺 Disease Prediction</h3>
-      ML app predicting diabetes and Parkinson's, deployed on Render.<br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"><br><br>
-      <a href="https://github.com/srishty02/REPO-NAME">🔗 View Project</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎫 Support CRM</h3>
-      Support ticket management and organization app.<br><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"><br><br>
-      <a href="https://github.com/srishty02/REPO-NAME">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
+## 🚀 Projects
 
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **🩺 Multiple Disease Prediction** | ML application that predicts diabetes and Parkinson's disease. Deployed on Render. | Python, Scikit-learn | [View Project](https://github.com/srishty02/REPO-NAME) |
+| **💸 DealDrop** | Price tracking app that monitors product prices, runs automated price checks and sends email alerts. | Firecrawl API, Supabase | [View Project](https://github.com/srishty02/REPO-NAME) |
+| **💬 Realtime Chat Application** | Chat application for instant messaging between users in real time. | ADD-TECH-STACK | [View Project](https://github.com/srishty02/REPO-NAME) |
+| **🎫 Support CRM** | Support ticket management application for creating, organizing and tracking tickets. | Django, PostgreSQL | [View Project](https://github.com/srishty02/REPO-NAME) |
 ## 🛠️ Technical Skills
 
 <p align="center">

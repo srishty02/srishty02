@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/srishty02">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=40&lines=Python+%7C+Java+%7C+SQL+%7C+JavaScript;Software+Engineer+%7C+Full+Stack+Development+%7C+Data+Science" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=40&lines=Python+%7C+Java+%7C+SQL+%7C+JavaScript;Software+Engineer+%7C+Full+Stack+Development+%7C+Data+Science;Open+to+Work" alt="Typing animation" />
   </a>
 </p>
 

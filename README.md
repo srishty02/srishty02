@@ -1,47 +1,45 @@
-                                                  # Hi, I'm Srishty Kumari 👋
+<h1 align="center">Hi, I'm Srishty Kumari 👋</h1>
 
-### Software Developer | CSE Graduate | AI/ML Enthusiast
+<p align="center">
+  <b>Software Developer · CSE Graduate · AI/ML Enthusiast</b><br>
+  Building practical apps with Python, Django and machine learning
+</p>
 
-I'm a Computer Science graduate interested in software development, problem-solving, and building practical applications. Through my internship experience at the Centre for Railway Information Systems (CRIS) and personal projects, I've gained exposure to application development, databases, testing, and machine learning.
+<p align="center">
+  <a href="https://www.linkedin.com/in/srishty-kumari-14b56b272"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:srishty0208@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=srishty02&label=Profile%20views&color=0e75b6&style=for-the-badge">
+</p>
 
-I'm continuously improving my technical skills and exploring how AI can solve real-world problems.
+---
 
-### 🛠️ Technical Skills
+### 👩‍💻 About Me
+- 🎓 B.Tech in Computer Science Engineering, Banasthali Vidyapith (2026)
+- 💼 Python Developer Intern at **CRIS (Centre for Railway Information Systems)**, Delhi
+- 🔭 Looking for full-stack, backend and data roles
+- 🌱 Currently learning DSA, software engineering fundamentals, and Generative AI / LLMs
 
-- **Languages:** Python, Java, JavaScript, SQL
-- **Web Development:** HTML, CSS, Django
-- **Database:** PostgreSQL
-- **Tools:** Git, GitHub, Postman
-- **AI/ML:** Machine Learning, Scikit-learn
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,postgres,git,github,postman&perline=10" />
+</p>
+
+**Also:** SQL · Scikit-learn · Supabase
 
 ### 🚀 Featured Projects
 
-**1. DealDrop — Price Tracking Application**
-- Tracks product prices and helps users monitor price changes.
-- Uses Firecrawl API and Supabase.
-- Includes automated price checks and email alerts.
-- [View Project](https://github.com/srishty02)
+| Project | What it does | Tech |
+|---|---|---|
+| **[DealDrop](https://github.com/srishty02/REPO-NAME)** | Price tracker with automated price checks and email alerts | Firecrawl API, Supabase |
+| **[Multiple Disease Prediction](https://github.com/srishty02/REPO-NAME)** | ML app that predicts diabetes and Parkinson's, deployed on Render | Python, Scikit-learn |
+| **[Support CRM](https://github.com/srishty02/REPO-NAME)** | Support ticket management and organization | Django, PostgreSQL |
 
-**2. Multiple Disease Prediction**
-- Machine learning application for predicting diabetes and Parkinson's disease.
-- Uses machine learning algorithms for prediction.
-- Deployed on Render.
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=srishty02&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishty02&layout=compact&hide_border=true" />
+</p>
 
-**3. Support CRM**
-- A support ticket management application.
-- Focuses on ticket organization and management.
-- [View Project](https://github.com/srishty02)
-
-### 🌱 Currently Learning
-
-- Data Structures and Algorithms
-- Software Engineering Fundamentals
-- Generative AI and Large Language Models
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/srishty02
-- LinkedIn: Add your LinkedIn profile URL here
-- Email: Add your professional email here
-
-I'm always interested in learning, building useful projects, and exploring opportunities to grow as a software developer.
+### 📫 Let's Connect
+Open to opportunities in Bangalore, Pune, Mumbai and other tech hubs.
+Reach me at **srishty0208@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/srishty-kumari-14b56b272).

@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Data-2ea44f?style=for-the-badge">
 </p> -->
 
-<h1 align="center">Srishty Kumari</h1>
+<h1 align="center">Hi,I'm Srishty Kumari</h1>
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@
   <a href="mailto:srishty0208@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/srishty02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/srishty_02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <img src="https://komarev.com/ghpvc/?username=srishty02&label=Profile%20views&color=6C63FF&style=for-the-badge">
 </p>
 
 ---

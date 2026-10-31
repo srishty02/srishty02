@@ -20,7 +20,7 @@
 
 ---
 
-## 👩‍💻 About Me
+ About 
 
 I'm a Computer Science graduate interested in software development, problem-solving and building practical applications. Through my internship at CRIS and personal projects, I've gained hands-on exposure to application development, databases, testing and machine learning.
 
@@ -31,7 +31,7 @@ I'm a Computer Science graduate interested in software development, problem-solv
 🧩 Practicing problem-solving on LeetCode
 ```
 
-## 💼 Experience
+ Experience
 
 **Python Developer Intern** — Centre for Railway Information Systems (CRIS), Delhi
 *July 2025 – December 2025*
@@ -40,9 +40,8 @@ I'm a Computer Science graduate interested in software development, problem-solv
 - Gained hands-on exposure to databases and testing
 - Applied machine learning concepts in practical work
 
-## 🚀 Projects
 
-## 🚀 Projects
+ Projects
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
@@ -62,12 +61,7 @@ I'm a Computer Science graduate interested in software development, problem-solv
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srishty02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishty02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 
 ## 📫 Let's Connect
 

@@ -1,13 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0E75B6,100:6C63FF&text=Srishty%20Kumari&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Software%20Developer%20%7C%20CSE%20Graduate%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
-<!-- <p align="center">
-  <a href="https://github.com/srishty02">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Srishty+%F0%9F%91%8B;Python+%7C+Django+%7C+Java+%7C+SQL+%7C+Scikit-learn;Full-Stack+%7C+Backend+%7C+Data+Roles;%F0%9F%9A%80+Open+to+Work" alt="Typing animation" />
-  </a>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20Backend%20%7C%20Data-2ea44f?style=for-the-badge">
-</p> -->
 <h1 align="center">Hi,I'm Srishty Kumari</h1>
 </p>
 

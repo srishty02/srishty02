@@ -27,7 +27,7 @@ I am a Computer Science graduate with 6 months of internship experience at CRIS,
 
  ## Experience
 
-**Python Developer Intern — Centre for Railway Information Systems (CRIS)**  New Delhi.July 2025-November 2025
+**Python Developer Intern — Centre for Railway Information Systems (CRIS)**  *New Delhi July 2025-November 2025*
 
 - Developed and updated web application pages using Python and Django.
 - Connected application pages with PostgreSQL databases to fetch and manage data.
